@@ -33,7 +33,8 @@ greeting:
 
 logging:
   level:
-    come.example.project: DEBUG
+    come.example.project.client: DEBUG
+
 
 #token:
 #  expiration_time: 86400000
